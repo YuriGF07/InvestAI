@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1094007381843",
+    "project_id": "investai-397ac",
+    "storage_bucket": "investai-397ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094007381843:android:cf337981bbe0475b870ba6",
+        "android_client_info": {
+          "package_name": "com.mycompany.investai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094007381843-7ar63d1f5kode7iejfpcacvo18f3ecm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.investai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1094007381843-0mt1jfovll9bsveqvsm45b1s540vs2ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBslgySN6gerJbwYDBRRwBwK8SpiCTRhQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094007381843-0mt1jfovll9bsveqvsm45b1s540vs2ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1094007381843-meekpanuvke9145aov0ngfmo244n7esb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.investai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
